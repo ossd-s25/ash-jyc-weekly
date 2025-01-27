@@ -5,11 +5,11 @@
 # CUSTOMIZE
 # Name of your site (displayed in the header)
 # This should be your name or nickname.
-name: Your Name
+name: Ashley Chen
 
 # CUSTOMIZE
 # Short bio or description aout you (displayed in the header)
-description: CSCI-UA 480 Student, Spring 2025
+description: self-described typical cs major
 
 # CUSTOMIZE
 # URL of your avatar or profile pic (the image should be located in the images 
@@ -35,9 +35,9 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: ossd-s25
-  instagram:
-  linkedin:
+  github: ash-jyc
+  instagram: ashulwee
+  linkedin: ashleyjychen
   pinterest:
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
@@ -50,14 +50,14 @@ footer-links:
 # It should be "/USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
 
-url: "https://ossd-s25.github.io/weekly"
+url: "https://ossd-s25.github.io/ash-jyc-weekly"
 
 # CUSTOMIZE
 # Replace this with the name of your own repository.
 # It should be "/USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
 
-baseurl: "/weekly"
+baseurl: "/ash-jyc-weekly"
 
 #
 # !! You don't need to change any of the configuration flags below !!
