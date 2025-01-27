@@ -4,9 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+# About Me
+Hi! My name is Ashley, and I'm a CS major at NYU Shanghai. I'm interested in programming languages, security, and formal methods research. I love talking to people and getting to know them and contribute to various projects. I'm also a big fan of markdown.
 
-### More Information
+# More 
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm a very cool person.
 
